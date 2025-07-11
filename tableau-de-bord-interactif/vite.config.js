@@ -11,5 +11,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/data-science-portfolio/tableau-de-bord-interactif/', // CETTE LIGNE EST CRUCIALE
+  base: '/',
 })
